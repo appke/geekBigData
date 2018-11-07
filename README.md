@@ -1,2 +1,2 @@
 # geekBigBata
-🌠🐘大数据
+1. hadoop configure files
