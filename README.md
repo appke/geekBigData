@@ -6,6 +6,8 @@
 2. addition data 
 3. java environment lib
 4. mapreduce source file
+   1. wordCount
+   2. 
 
 <br>
 
@@ -26,7 +28,9 @@
 ## mapreduce
 
 
+
 ## zookeeper
+
 - [ZooKeeper集群搭建](https://www.jianshu.com/p/e4877035c68a)
 
 

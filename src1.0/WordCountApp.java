@@ -71,7 +71,7 @@ public class WordCountApp {
 	 * KEYOUT	即k2		表示行中出现的单词
 	 * VALUEOUT	即v2		表示行中出现的单词的次数，固定值1
 	 */
-	static class MyMapper extends Mapper<LongWritable, Text, Text, LongWritable>{
+	static class MyMapper extends Mapper<LongWritable, Text, Text, LongWritable> {
 
 		protected void map(LongWritable key, Text value,Context context) throws IOException, InterruptedException {
 			final String [] split = value.toString().split(" ");
