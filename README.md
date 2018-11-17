@@ -33,5 +33,7 @@
 
 - [ZooKeeper集群搭建](https://www.jianshu.com/p/e4877035c68a)
 
-
+## hive
+- [Docker安装mysql数据库](https://www.jianshu.com/p/ad078c78e10a)
+- [Hadoop集群上搭建hive](https://www.jianshu.com/p/ec3aa7294130)
 
