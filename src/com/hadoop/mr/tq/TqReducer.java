@@ -1,4 +1,4 @@
-package com.sxt.hadoop.mr.tq;
+ package com.sxt.hadoop.mr.tq;
 
 import java.io.IOException;
 

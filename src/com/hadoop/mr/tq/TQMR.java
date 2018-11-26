@@ -56,13 +56,6 @@ public class TQMR {
 		
 		job.waitForCompletion(true);
 		
-		
-		
-		
-		
-		
-		
-		
 	}
 	
 
