@@ -27,6 +27,10 @@
 
 ## mapreduce
 
+- [MapReduce-API(1)创建WordCount程序](https://www.jianshu.com/p/3fbfb7cfad2c)
+- [MapReduce-API(2)找出每月气温最高的2天](https://www.jianshu.com/p/edbb49d73547)
+- [MapReduce-API(3)好友推荐FOF](https://www.jianshu.com/p/4e8d13d29ca4)
+
 
 
 ## zookeeper
@@ -36,4 +40,15 @@
 ## hive
 - [Docker安装mysql数据库](https://www.jianshu.com/p/ad078c78e10a)
 - [Hadoop集群上搭建hive](https://www.jianshu.com/p/ec3aa7294130)
+- [hive建表并加载数据](https://www.jianshu.com/p/a6cdbe69c9c7)
+- [hive的serde,beeline,jdbc](https://www.jianshu.com/p/4b9e58eceff5)
+- [hive开发自定义函数UDF](https://www.jianshu.com/p/0f7ed271e480)
+- [hive找出掉线率最高的前10基站&WordCount](https://www.jianshu.com/p/23665de0f9c6)
+
+
+
+## hbase
+
+- [Hadoop集群搭建高可用HBase](https://www.jianshu.com/p/ecae88481db2)
+- [HBase的Shell](https://www.jianshu.com/p/fef6d730731a)
 
