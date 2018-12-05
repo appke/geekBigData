@@ -7,7 +7,9 @@
 3. java environment lib
 4. mapreduce source file
    1. wordCount
-   2. 
+5. Hive
+6. hbase
+   1. HBaseDAOImp.java
 
 <br>
 
