@@ -51,4 +51,5 @@
 
 - [Hadoop集群搭建高可用HBase](https://www.jianshu.com/p/ecae88481db2)
 - [HBase的Shell](https://www.jianshu.com/p/fef6d730731a)
+- [HBase客户端java-API](https://www.jianshu.com/p/66f5d64820bf)
 
